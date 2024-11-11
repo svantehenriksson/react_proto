@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fluenzo/react_proto/static/css/main.5c6dbbbf.css",
-    "main.js": "/fluenzo/react_proto/static/js/main.3929e8f1.js",
-    "index.html": "/fluenzo/react_proto/index.html",
-    "main.5c6dbbbf.css.map": "/fluenzo/react_proto/static/css/main.5c6dbbbf.css.map",
-    "main.3929e8f1.js.map": "/fluenzo/react_proto/static/js/main.3929e8f1.js.map"
+    "main.css": "/react_proto/static/css/main.5c6dbbbf.css",
+    "main.js": "/react_proto/static/js/main.3929e8f1.js",
+    "index.html": "/react_proto/index.html",
+    "main.5c6dbbbf.css.map": "/react_proto/static/css/main.5c6dbbbf.css.map",
+    "main.3929e8f1.js.map": "/react_proto/static/js/main.3929e8f1.js.map"
   },
   "entrypoints": [
     "static/css/main.5c6dbbbf.css",
