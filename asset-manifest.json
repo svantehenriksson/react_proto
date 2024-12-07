@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react_proto/static/css/main.1ef91c81.css",
-    "main.js": "/react_proto/static/js/main.c3ff6674.js",
+    "main.css": "/react_proto/static/css/main.13046b39.css",
+    "main.js": "/react_proto/static/js/main.9f49e572.js",
     "index.html": "/react_proto/index.html",
-    "main.1ef91c81.css.map": "/react_proto/static/css/main.1ef91c81.css.map",
-    "main.c3ff6674.js.map": "/react_proto/static/js/main.c3ff6674.js.map"
+    "main.13046b39.css.map": "/react_proto/static/css/main.13046b39.css.map",
+    "main.9f49e572.js.map": "/react_proto/static/js/main.9f49e572.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ef91c81.css",
-    "static/js/main.c3ff6674.js"
+    "static/css/main.13046b39.css",
+    "static/js/main.9f49e572.js"
   ]
 }
